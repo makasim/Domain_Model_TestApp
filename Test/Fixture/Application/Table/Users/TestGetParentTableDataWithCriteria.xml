@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<bugs id="3" name="anyname"	reported_by="3" assigned_to="1" status="assign"		product_id="1" />
+	<bugs id="11" name="anyname" reported_by="3" assigned_to="2" status="assign"	product_id="1" />
+</dataset>

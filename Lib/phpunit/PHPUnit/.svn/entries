@@ -1,0 +1,83 @@
+9
+
+dir
+4844
+svn://svn.phpunit.de/phpunit/phpunit/branches/release/3.3/PHPUnit
+svn://svn.phpunit.de/phpunit
+
+
+
+2009-04-10T10:17:59.468944Z
+4790
+sb
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c4a080f7-5c17-0410-a942-8af0f0140c7b
+
+Extensions
+dir
+
+Tests
+dir
+
+TextUI
+dir
+
+Framework.php
+file
+
+
+
+
+2009-04-30T09:42:51.000000Z
+3899c038d6a4e9be4e0f734fd11de633
+2008-12-31T09:27:18.193054Z
+4404
+sb
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3164
+
+Samples
+dir
+
+Runner
+dir
+
+Framework
+dir
+
+Util
+dir
+

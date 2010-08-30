@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<users id="3" name="maksim" role="customer" />	
+	<users id="4" name="vadim" 	role="customer" />
+	<users id="6" name="vadim" 	role="customer" />
+</dataset>

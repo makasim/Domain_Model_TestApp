@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<bugs id="1" name="anyname"	reported_by="3" assigned_to="1" status="new"		product_id="1" />
+	<bugs id="2" name="anyname"	reported_by="3" assigned_to="1" status="new"		product_id="1" />
+	<bugs id="3" name="anyname"	reported_by="3" assigned_to="1" status="assign"		product_id="1" />
+	<bugs id="4" name="anyname"	reported_by="3" assigned_to="1" status="finish"		product_id="1" />
+	
+	<bugs id="5" name="anyname"	reported_by="4" assigned_to="1" status="new"		product_id="1" />
+	<bugs id="6" name="anyname"	reported_by="4" assigned_to="1" status="new"		product_id="1" />
+	<bugs id="7" name="anyname"	reported_by="4" assigned_to="1" status="assign"		product_id="1" />
+	<bugs id="8" name="anyname"	reported_by="4" assigned_to="1" status="finish"		product_id="1" />
+	
+	<bugs id="9" name="anyname" reported_by="3"	assigned_to="2" status="new"		product_id="1" />
+	<bugs id="10" name="anyname" reported_by="3" assigned_to="2" status="new" 		product_id="1" />
+	<bugs id="11" name="anyname" reported_by="3" assigned_to="2" status="assign"	product_id="1" />
+	<bugs id="12" name="anyname" reported_by="3" assigned_to="2" status="finish"	product_id="1" />
+	
+	<bugs id="13" name="anyname" reported_by="4" assigned_to="2" status="new"		product_id="2" />
+	<bugs id="14" name="anyname" reported_by="4" assigned_to="2" status="new" 		product_id="2" />
+	<bugs id="15" name="anyname" reported_by="4" assigned_to="2" status="assign"	product_id="2" />
+	<bugs id="16" name="anyname" reported_by="4" assigned_to="2" status="finish"	product_id="2" />
+</dataset>

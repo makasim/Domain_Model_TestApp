@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 50
+apidoc
+Doxyfile
+Doxygen.log
+phpunit.bat
+tests.bat
+
+END
